@@ -134,6 +134,11 @@ const config = {
       'title': 'Medium',
       'link': 'https://medium.com/galilel',
       'icon': 'fab-medium'
+    },
+    {
+      'title': 'LinkedIn',
+      'link': 'https://www.linkedin.com/company/galilel/',
+      'icon': 'fab-linkedin'
     }
   ],
 
@@ -142,40 +147,32 @@ const config = {
    */
   exchanges: [
     {
+      'title': 'VinDAX',
+      'link': 'https://vindax.com/?ref=9dbc4bdf9727de8f313288cd70836216'
+    },
+    {
+      'title': 'Altilly',
+      'link': 'https://www.altilly.com/?a=fff9d'
+    },
+    {
       'title': 'Graviex',
-      'link': 'https://graviex.net/markets/galibtc'
+      'link': 'https://graviex.net/signup?ref=3252ebc02e1c8cd4fc7c6726'
     },
     {
       'title': 'Crex24',
-      'link': 'https://crex24.com/exchange/GALI-BTC'
+      'link': 'https://crex24.com/?refid=jkuhzmmk8qnul1mccm6x'
     },
     {
-      'title': 'Aiodex',
-      'link': 'https://aiodex.com/exchange/GALI_BTC'
+      'title': 'Bisq',
+      'link': 'https://bisq.network/markets/?currency=gali_btc'
     },
     {
       'title': 'CRATEX',
       'link': 'https://cratex.io/index.php?pair=GALI/BTC'
     },
     {
-      'title': 'Raisex',
-      'link': 'https://raisex.io/trade/GALI_BTC'
-    },
-    {
-      'title': 'MCT+',
-      'link': 'https://trade.mct.plus/'
-    },
-    {
-      'title': 'FINEXBOX',
-      'link': 'https://www.finexbox.com/market/pair/GALI-BTC.html'
-    },
-    {
       'title': 'Block DX',
       'link': 'https://blocknet.co/galilel-2/about/'
-    },
-    {
-      'title': 'Bisq',
-      'link': 'https://bisq.network/markets/?currency=gali_btc'
     }
   ],
 
